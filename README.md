@@ -46,8 +46,8 @@ game24_4.exe
 
 └── README.md         # 项目说明（本文件）
 ## 运行截图
-![挑战模式界面](screenshot_challenge.png)
-![解法输出示例](screenshot_solution.png)
+![闯关模式界面](闯关模式.png)
+![解法输出示例](练习模式-解法输出.png)
 
 ## 适用场景
 - 算法学习：回溯、递归、栈数据结构的实战案例
